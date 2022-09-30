@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "Drakfyre.PersonalAvatars",
+      "title": "PersonalAvatars",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Drakfyre",
+      "version": "0.0.0",
+      "sdkVersion": "0.3.4-1649",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:4",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "Drakfyre.PersonalAvatars.Avatar.Nacho",
+      "title": "Nacho",
+      "description": "A cute Kobold I bought from VonVivianov.",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "2b8a9a153f62f374eb590af5b8f5902a",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "448c947ed075a484ca8be6c83d42e410"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:3": {
+      "barcode": "Drakfyre.PersonalAvatars.Avatar.MegaNacho",
+      "title": "Mega Nacho",
+      "description": "A cute Kobold I bought from VonVivianov.",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "9870069c1bceff84d9961bf1d160749e",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "f638dfeac5a6fba4398974e1cec5672b"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:4": {
+      "barcode": "Drakfyre.PersonalAvatars.Avatar.MicroNacho",
+      "title": "Micro Nacho",
+      "description": "A cute Kobold I bought from VonVivianov.",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "b5520b0cda19f1249aeb9ae74378c84b",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "1cca55b44be92d2489b2a69457ab39f3"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.AvatarCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}
